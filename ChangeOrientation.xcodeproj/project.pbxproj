@@ -15,6 +15,7 @@
 		B95C56131D05366D00119E69 /* MainViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = B95C56121D05366D00119E69 /* MainViewController.m */; };
 		B95C56151D0536EB00119E69 /* index.html in Resources */ = {isa = PBXBuildFile; fileRef = B95C56141D0536EB00119E69 /* index.html */; };
 		B95C56181D05381100119E69 /* BaseNavigationController.m in Sources */ = {isa = PBXBuildFile; fileRef = B95C56171D05381100119E69 /* BaseNavigationController.m */; };
+		B9F705E61D05A3DB007A55FB /* performance.gif in Resources */ = {isa = PBXBuildFile; fileRef = B9F705E51D05A3DB007A55FB /* performance.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -32,6 +33,7 @@
 		B95C56141D0536EB00119E69 /* index.html */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.html; path = index.html; sourceTree = "<group>"; };
 		B95C56161D05381100119E69 /* BaseNavigationController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = BaseNavigationController.h; sourceTree = "<group>"; };
 		B95C56171D05381100119E69 /* BaseNavigationController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = BaseNavigationController.m; sourceTree = "<group>"; };
+		B9F705E51D05A3DB007A55FB /* performance.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = performance.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				B95C56161D05381100119E69 /* BaseNavigationController.h */,
 				B95C56171D05381100119E69 /* BaseNavigationController.m */,
 				B95C56141D0536EB00119E69 /* index.html */,
+				B9F705E51D05A3DB007A55FB /* performance.gif */,
 				B95C56031D05352B00119E69 /* Assets.xcassets */,
 				B95C56051D05352B00119E69 /* LaunchScreen.storyboard */,
 				B95C56081D05352B00119E69 /* Info.plist */,
@@ -147,6 +150,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B95C56151D0536EB00119E69 /* index.html in Resources */,
+				B9F705E61D05A3DB007A55FB /* performance.gif in Resources */,
 				B95C56071D05352B00119E69 /* LaunchScreen.storyboard in Resources */,
 				B95C56041D05352B00119E69 /* Assets.xcassets in Resources */,
 			);
@@ -304,6 +308,7 @@
 				B95C560D1D05352B00119E69 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
